@@ -26,3 +26,13 @@ j
 :app/src/test/java/com/example/algorithm/ExampleUnitTest.kt,8\a\8ab5be175479e8b485b36262e9de167a62681c40
 y
 Iapp/src/androidTest/java/com/example/algorithm/ExampleInstrumentedTest.kt,5\d\5d7ddefb0aa5128bde6f97417c08d16f58600b0f
+i
+9app/src/main/java/com/example/algorithm/MedianArrays.java,6\5\6585f6e149975a0347f5eb26f4034d1af017e873
+q
+Aapp/src/main/java/com/example/algorithm/MaximumPossibleValue.java,e\9\e9293aa9ca80a10509a7deebffef80a57c34d7f4
+m
+=app/src/main/java/com/example/algorithm/LongestSubstring.java,c\c\ccc806b31e8251398f09841f4c82702588ec9eb0
+o
+?app/src/main/java/com/example/algorithm/LongestPalindromic.java,1\a\1adcfa4b9a0b68e28672bff9b0e032a6f349cf6e
+c
+3app/src/main/java/com/example/algorithm/TwoSum.java,c\b\cbf2ab49a2e1462a508ced5a48548ad0c89d941c

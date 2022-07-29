@@ -5,6 +5,8 @@ public class ReverseInteger {
         int  N = -123;
         ReverseInteger reverseInteger = new ReverseInteger();
         int result = reverseInteger.reverse(N);
+        System.out.println();
+        String s = "-12";
     }
     public int reverse(int number) {
         boolean isNegative = false;
