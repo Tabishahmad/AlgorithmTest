@@ -21,6 +21,8 @@ public class TwoSum {
             System.out.println("Invalid Paraments");
             return  toReturn;
         }
+
+
         if(numbers.length < 2){
             int toReturn[] = {0, 0};
             System.out.println("Invalid Paraments");
